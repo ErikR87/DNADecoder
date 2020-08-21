@@ -1,0 +1,15 @@
+################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.svn
+/.vs
+/solution/packages
+/solution/.vs
+/data/Database_Backups/OG.OttoAcademy_20171208_19_44.bak
+*.user
+bin/
+debug/
+obj/
+*.DS_Store
+*.dbmdl
